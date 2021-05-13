@@ -20,3 +20,10 @@ library(ggplot2)
 renv::init()
 ```
 
+
+```{r}
+renv::snapshot()
+```
+
+
+
