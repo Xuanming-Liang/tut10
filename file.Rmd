@@ -1,7 +1,15 @@
+---
+title: "Week 10 Tutorial"
+author: "Xuanming Liang"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2
+---
 
 
-```{r}
+```{r libraries, message=FALSE}
 library(dplyr)
 library(ggplot2)
 ```
+
 
